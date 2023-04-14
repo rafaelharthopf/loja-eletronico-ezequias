@@ -1,0 +1,29 @@
+{
+  "name": "loja-eletronico-ezequias",
+  "version": "1.0.0",
+  "description": "Loja de Eletronico do Ezequias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelharthopf/loja-eletronico-ezequias.git"
+  },
+  "keywords": [
+    "loja",
+    "eletronico",
+    "store",
+    "software",
+    "hardware"
+  ],
+  "author": "Rafael Harthopf Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelharthopf/loja-eletronico-ezequias/issues"
+  },
+  "homepage": "https://github.com/rafaelharthopf/loja-eletronico-ezequias#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.4"
+  }
+}
